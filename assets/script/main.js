@@ -1,5 +1,6 @@
 increaseFont();
 decreaseFont();
+console.log("Site atualizado!");
 
 function increaseFont() {
     console.log("increaseFont");
